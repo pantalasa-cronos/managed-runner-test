@@ -37,3 +37,5 @@ Component JSON on the cronos hub.
 | Secret | Value |
 |---|---|
 | `LUNAR_HUB_TOKEN` | Hub auth token for `cronos.demo.earthly.dev` |
+
+Updated: 2026-04-24T13:05:33Z — retest after manifest merge
