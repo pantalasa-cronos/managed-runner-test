@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Lunar CI Agent
-        uses: earthly/lunar-ci-action@v1.1.4
+        uses: earthly/lunar-ci-action@v1.1.5
         env:
           LUNAR_HUB_TOKEN: ${{ secrets.LUNAR_HUB_TOKEN }}
           LUNAR_HUB_HOST: cronos.demo.earthly.dev
