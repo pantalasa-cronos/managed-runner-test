@@ -44,3 +44,4 @@ Updated: 2026-04-24T13:05:33Z — retest after manifest merge
 
 <!-- ENG-1710: empty-policy GitHub check reproduction -->
 <!-- ENG-1710: fixed Hub verification 2026-09-08 -->
+<!-- ENG-1710: required-check verification 2026-09-08 -->
