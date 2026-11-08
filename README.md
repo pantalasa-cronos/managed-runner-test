@@ -41,3 +41,4 @@ Component JSON on the cronos hub.
 Updated: 2026-04-24T13:05:33Z — retest after manifest merge
 
 <!-- cronos-trigger: 2026-05-22T02:22:42Z -->
+<!-- Temporary Cronos webhook tracing smoke 20261108T182836Z -->
